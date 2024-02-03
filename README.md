@@ -1,7 +1,7 @@
 # calculadora
 
-[!NOTE]
-Proyecto puede escalarse y crear mas funciones.
+>[!NOTE]
+>Proyecto puede escalarse y crear mas funciones.
 
 ## Vamos a empezar
 
